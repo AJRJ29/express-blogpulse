@@ -1,0 +1,2 @@
+
+sequelize model:create --name  ---attributes name:string,content:text,articleId:integer
